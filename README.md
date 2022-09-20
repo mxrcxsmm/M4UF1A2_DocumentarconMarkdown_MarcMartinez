@@ -27,16 +27,25 @@
    | Google Meet | :computer: |
    | ... | ... |
 
-6. ¿Qué es ```
-           HTML
-           ```?
+6. ¿Qué es ```HTML```?
 
    Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
-   ![image](https://user-images.githubusercontent.com/90915730/191221055-6fe65db9-e911-4cb7-92d3-7de86c5ffe9a.png)
-  
-7. ¿Qué es ```
-           CSS
-           ```?
+   <!DOCTYPE html>
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+</body>
+</html>
+```
+
+7. ¿Qué es ```CSS```?
    
    CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
    elementos HTML deberían ser mostrados.   
